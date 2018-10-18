@@ -1,0 +1,15 @@
+Electronic arts;TitanFall;FPS;5.500000;19.000000;2010
+Activision Blizzard;Call Of Duty WW2;FPS;3.500000;11.000000;2004
+Activision Blizzard;Call Of Duty WW2;FPS;7.500000;6.000000;2017
+Ubisoft;Anno 1800;City-building;5.500000;39.000000;2010
+Ubisoft;Starlink Battle For Atlas;Action-adventure;3.500000;41.000000;2003
+2K;Battleborn;FPS;8.500000;3.000000;2003
+2K;XCom;Tactical role-playing;7.500000;33.000000;2009
+Rokstar Games;Grand Theft Auto V;Action-adventure;6.500000;37.000000;2006
+2K;WWE 2K18;Sport;4.500000;39.000000;2010
+Ubisoft;Anno 1800;City-building;5.500000;34.000000;2014
+Bethesda;Wolfenstein II the new colossus;FPS;7.500000;16.000000;2017
+Electronic arts;Need More Speeed:PayBack;Racing;6.500000;41.000000;2006
+Ubisoft;The Crew 2;Racing;7.500000;38.000000;2012
+Electronic arts;BattleField V;FPS;3.500000;30.000000;2017
+Activision Blizzard;StarCraft;StarCraft;5.500000;53.000000;2009

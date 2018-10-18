@@ -1,0 +1,14 @@
+Electronic arts;Need For Speed: Most Wanted;Racing;6.500000;34.000000;2007
+Electronic arts;BattleField V;FPS;7.500000;57.000000;2010
+Rokstar Games;Grand Theft Auto San Andreas;Action-adventure;7.500000;36.000000;2006
+Electronic arts;Fifa 19;Sport;5.500000;24.000000;2016
+Rokstar Games;Grand Theft Auto V;Action-adventure;7.500000;20.000000;2012
+Rokstar Games;Grand Theft Auto IV;Action-adventure;6.500000;59.000000;2013
+2K;NBA 2K19;Sport;3.500000;55.000000;2016
+Rokstar Games;Red Dead Redemption 2;Action-adventure;4.500000;23.000000;2010
+Ubisoft;Starlink Battle For Atlas;Action-adventure;8.500000;58.000000;2005
+Rokstar Games;Grand Theft Auto San Andreas;Action-adventure;5.500000;35.000000;2008
+Activision Blizzard;Call Of Duty WW2;FPS;7.500000;6.000000;2013
+Bethesda;Fallout 76;Action role-playing;4.500000;40.000000;2008
+Ubisoft;Anno 1800;City-building;3.500000;55.000000;2005
+Ubisoft;For Honor;Action;6.500000;28.000000;2010
